@@ -1,6 +1,6 @@
 Name:		texlive-bitset
 Version:	53837
-Release:	1
+Release:	2
 Summary:	Handle bit-vector datatype
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bitset
